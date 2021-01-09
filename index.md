@@ -2,13 +2,13 @@
 <!DOCTYPE html>
 <html>
     <head>
-<title> Kadir Akdemir's website </title>
+<title> Electronic idea's website </title>
    <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
     <section class="container">  
     <div class="halfwidth">  
- <h1> Welcome to <span class="name"> Kadir Akdemir's </span>world </h1>
+ <h1> Welcome to <span class="name"> Electronic idea's </span>world </h1>
  <h3> This is how we do it. </h3>
    <p> I am a C++ programmer and a front end webdesigner. </p>
    <a class="primary-btn" href="https://www.linkedin.com/in/electronic-ideas-47770b203">hire me</a>
