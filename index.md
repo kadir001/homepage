@@ -13,7 +13,7 @@
 
 <body>
 
-<header><img src="images/header.jpg" class="img-responsive" /></header>
+<header><img src="images/header.jpg" class="img-responsive" width=100% /></header>
  
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
